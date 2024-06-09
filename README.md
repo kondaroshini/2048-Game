@@ -1,8 +1,9 @@
-2048 GAME
+# 2048 GAME
 ===========
-![screenshot](screenshot.png)
 
-To run the Game
+![screenshot](img/screenshot.png)
+
+To run the Game:
 
 ```sh
 $ python puzzle.py
